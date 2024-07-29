@@ -21,7 +21,7 @@ Answer the following questions below:
   It means data in a React application should be passed down from parent components to child components through props, rather than child components directly accessing parent data. It means changes in a component do not impact components higher in the hierarchy. This ensures a manageable state flow.<br />
 
 - What is a controlled component?<br />
-  A controlled component is a input where the value is controlled by React state. Changes to the input values are through updating the state.<br />
+  A controlled component is an input where the value is controlled by React state. Changes to the input values are through updating the state.<br />
 
 - What is an uncontrolled component?<br />
   An uncontrolled component is a input that maintains its own internal state, and React does not manage its state. Uncontrolled components use the DOM itself to handle data.<br />
